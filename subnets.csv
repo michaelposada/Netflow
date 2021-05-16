@@ -1,0 +1,111 @@
+Network Management,10.1.0.0,16
+Trunked Admin,10.12.0.0,16
+Research,10.13.31.0,24
+Hap,10.130.0.0,16
+Mn,10.131.0.0,16
+Chasner,10.14.175.0,24
+SAAS,10.158.0.0,16
+Trunked labs,10.159.0.0,16
+Mn Lab,10.160.0.0,16
+Hap Lab,10.161.0.0,16
+Library_Lab,10.2.0.0,23
+Sports Lab ,10.2.10.0,23
+PubSftyCCTV,10.2.12.0,23
+Library_Lab_2,10.2.14.0,23
+Bldg_Comm_Lab,10.2.16.0,23
+Alum_Post Lab,10.2.18.0,23
+Science_Lab,10.2.2.0,23
+Soc_Hy_Lab,10.2.20.0,23
+VideoCAC_HY_W,10.2.22.0,23
+Speech_Hearing_Lab,10.2.24.0,23
+Earle Lab,10.2.26.0,23
+HHE Lab,10.2.28.0,23
+Harvey Lab,10.2.30.0,23
+HV Lab,10.2.32.0,23
+HWC VALT,10.2.34.0,24
+HWC VALT Cameras,10.2.35.0,24
+SunRay Vlan,10.2.4.0,23
+UC_AV,10.2.90.0,23
+Post Lab (future subnet in core),10.2.42.0,23
+ELC Lab (future subnet in core),10.2.44.0,23
+Woodrf Lab,10.2.6.0,23
+Res Hall A Lab,10.2.64.0,23
+Nexus Nursing Lab (General Access),10.2.66.0,23
+Nexus Nursing Lab,10.2.68.0,22
+Nexus AV,10.2.72.0,23
+UC Lab,10.2.74.0,23
+Chapman Lab,10.2.76.0,23
+Eddy Lab,10.2.78.0,23
+Perf Arts Lab,10.2.8.0,23
+Linen Lab,10.2.80.0,23
+RHB Lab,10.2.82.0,23
+Waldo Lab,10.2.84.0,23
+Levermore Lab,10.2.86.0,23
+Science_ComSci_Lab,10.2.88.0,23
+Azure VPN - net-azu-us-east2,10.200.0.0,16
+Harvey Admin,10.3.0.0,23
+Servers,10.3.12.0,23
+Perf Arts Admin,10.3.14.0,23
+Sports,10.3.16.0,23
+OITR,10.3.18.0,23
+UC Admin,10.3.2.0,23
+Woodrf Admin,10.3.20.0,23
+Earle Admin,10.3.22.0,23
+Waldo Admin,10.3.24.0,23
+HV Admin,10.3.26.0,23
+Chapman Admin,10.3.28.0,23
+Res Hall A Admin,10.3.30.0,23
+Nexus Admin,10.3.36.0,22
+Intellitech,10.3.4.0,23
+Linen Admin,10.3.40.0,23
+Eddy Admin,10.3.42.0,23
+RHB Admin,10.3.44.0,23
+Post Admin (future subnet in core),10.3.46.0,23
+ELC Admin (future subnet in core),10.3.48.0,23
+HOTSITE,10.3.6.0,23
+Fine Arts Facilities Adm,10.3.8.0,23
+ALH Instructional Research,10.42.0.0,23
+BLH Instructional Research,10.42.2.0,23
+LNH Instructional Research,10.42.4.0,23
+MultiM,10.5.0.0,19
+New End User VPN,10.6.0.0,22
+INTELLITECH-DVR,10.7.10.0,24
+MUTT ,10.7.11.0,24
+VOIP,10.7.14.0,23
+Chasner VOIP,10.7.16.0,24
+MN Voip trunk,10.7.17.0,24
+HV VOIP,10.7.18.0,24
+Nexus VoIP,10.7.20.0,23
+UC VoIP (future subnet),10.7.22.0,23
+ELS_MN,10.7.254.0,24
+Nexus Enviro,10.7.6.0,24
+Lackmann,10.7.8.0,24
+Noroutedorm,10.72.0.0,16
+RHA,10.73.0.0,22
+Linen,10.73.12.0,22
+Chapman,10.73.16.0,22
+Waldo,10.73.20.0,22
+Earle,10.73.24.0,22
+Misc_Netreg,10.73.32.0,22
+RHB,10.73.4.0,22
+Eddy,10.73.8.0,22
+Wireless,10.74.0.0,16
+TEL_MGMT,10.75.15.0,24
+Adelphi-Internal Wireless,10.76.0.0,20
+Wireless Controllers,10.78.0.0,16
+Old DEC,10.79.0.0,16
+CCEnter,10.80.0.0,16
+Library Admin,10.81.0.0,16
+Network Monitoring,10.82.0.0,16
+HHE/Uc,10.83.0.0,16
+Alumnae,10.84.0.0,16
+Social Work,10.85.0.0,16
+Science,10.86.0.0,16
+Blodgett Admin,10.87.0.0,16
+Hy_Weinberg,10.88.0.0,16
+Levermore,10.92.0.0,16
+AdAstra VPN Network idk,10.95.4.0,24
+WIZ,10.13.169.0,24
+PTZ,10.20.0.0,16
+ENVIRO,10.7.7.0,24
+AZURE VPN,10.200.0.0,16
